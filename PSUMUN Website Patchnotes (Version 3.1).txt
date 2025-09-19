@@ -1,0 +1,5 @@
+PSU Website Patch Notes (Version 3.1):
+-Created Alumni page
+-Added Alumni page to navbar in all pages
+-Moved Faros, Wardah, and Fatema from Team Members to Alumni page
+-Added Dima, Khadija and Hoshan to Alumni page
