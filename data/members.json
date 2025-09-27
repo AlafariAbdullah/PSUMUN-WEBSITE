@@ -1,19 +1,98 @@
 [
-   // Image res 948 × 945
   {
-    "name": "Lojain Rozi",
+    "name": "Fares AlFares",
     "role": "Secretary General",
     "tag": "Student",
-    "field": "Law",
-    "image": "images/lojenrozi2.gif",
-    "bio": "MUN is very special to Lojain; through it, she discovered her passion for law..."
+    "field": "Information System",
+    "image": "data/newprofiles2025/FaresAlFares.jpg",
+    "bio": "Fares, currently serving as Secretary General, brings strong leadership shaped by his previous experience as Undersecretary of Logistics. With a solid foundation in information systems and a specialization in cybersecurity, he offers a distinctive skill set that supports his strategic oversight and decision-making. His proven enthusiasm for effective organization and meticulous attention to detail, demonstrated during his logistics tenure, continue to define his approach in guiding the conference. Fares’s steadfast dedication to ensuring a smooth and impactful experience for all participants reflects his unwavering commitment to elevating the overall success of this occasion. Picture:"
   },
   {
-    "name": "Abdullah AlYousef",
+    "name": "Khaled Albanyan",
+    "role": "Deputy Secretary General",
+    "tag": "Student",
+    "field": "Finance",
+    "image": "data/newprofiles2025/KhaledAlbanyan.jpg",
+    "bio": "Khaled, the Deputy Secretary General, is a second year finance student. Outside of his role in PSUMUN and academia, he finds joy in running, which helps him stay energized and focused. He's also a big fan of reading, and he immerses himself in a wide range of books that broaden his perspective. His enthusiasm for MUNs fuels his commitment to ensuring smooth and impactful committee experiences for delegates. Picture: :"
+  },
+  {
+    "name": "Noor Almofeez",
     "role": "Director General",
     "tag": "Student",
+    "field": "Law",
+    "image": "data/newprofiles2025/NoorAlmofeez.jpg",
+    "bio": "Noor Almofeez Director General College of Law As a senior year student of law, Noor Almofeez has a great passion for hosting and participating in platforms of debate. Serving as Director General for this year's conference she is committed and excited to be in service of the secretariat and the delegates."
+  },
+  {
+    "name": "Hassan Muddather",
+    "role": "Undersecretary of Conference Management",
+    "tag": "Student",
+    "field": "Marketing",
+    "image": "data/newprofiles2025/HassanMuddather.jpg",
+    "bio": "I am Hassan Muddather, Undersecretary of Conference Management, and I bring dynamic energy and organizational skills to my role. As a Marketing student, I combine creativity with strategic thinking to ensure every aspect of the conference is both engaging and impactful. With a solid foundation in managing events, I have developed an eye for detail and the ability to coordinate complex activities with efficiency. I value proactive planning, clear communication, and teamwork, all of which help me create memorable experiences for participants. My commitment to excellence and passion for bringing people together drive me to contribute meaningfully to the success of this conference."
+  },
+  {
+    "name": "Yara Albugami",
+    "role": "Undersecretary of Marketing & Graphic Design",
+    "tag": "Student",
+    "field": "Software Engineering",
+    "image": "data/newprofiles2025/femaleplaceholder.jpg",
+    "bio": "Yara Albugami, PSUMUN’s Undersecretary of Graphic Design, is known for her passion for digital creativity. Over the years, Yara learned about 3D printing, robotics, and programming through a variety of courses and workshops, consequently she always knew she wanted to study Software Engineering, which is exactly where she is now. Her experience guided her to handle the whole scope of creating the designs of end-to-end marketing, which include social media (instagram posts and stories), committee (banners, plaques, and lanyard, etc), activities (social night, opening/closing ceremony, and certificates). When it comes to hobbies, she enjoys drawing, swimming, and watching movies, especially science fiction including Star Wars movies."
+  },
+  {
+    "name": "Dana Alomair",
+    "role": "Undersecretary of Committee & Delegate Affairs",
+    "tag": "Student",
+    "field": "Accounting",
+    "image": "data/newprofiles2025/femaleplaceholder.jpg",
+    "bio": "Dana is a"
+  },
+  {
+    "name": "Ghadeer Balfaqih",
+    "role": "Undersecretary of Marketing & Graphic Design",
+    "tag": "Student",
+    "field": "Information System",
+    "image": "data/newprofiles2025/GhadeerBalfaqih.jpg",
+    "bio": "Ghadeer is an Information Systems student at Prince Sultan University with a strong interest in creativity and collaboration. As a member of the PSUMUN marketing and graphic design team, she enjoys contributing her skills while working closely with others to share ideas and develop impactful projects. Her eagerness to grow alongside the PSUMUN team reflects her dedication to teamwork, learning, and making a meaningful contribution. Picture:"
+  },
+  {
+    "name": "Sama Hamidaddin",
+    "role": "Undersecretary of Marketing & Graphic Design",
+    "tag": "Student",
+    "field": "Marketing",
+    "image": "data/newprofiles2025/femaleplaceholder.jpg",
+    "bio": "Sama Hamidaddin is a creative and motivated student who enjoys taking on leadership roles. She offers strong skills in communication, leadership, and creativity, which support her passion for marketing and design. Excited to be part of PSUMUN 2025 as a Marketing and Graphic Designer, Sama is eager to apply her skills, share innovative ideas, and connect with others."
+  },
+  {
+    "name": "Abdullah Alafari",
+    "role": "Secretary of Information Systems (IT)",
+    "tag": "Student",
     "field": "Computer Science",
-    "image": "images/AbdullahAlyousef3.jpg",
-    "bio": "Abdullah is the Director General of PSUMUN and a dedicated computer science student..."
+    "image": "data/newprofiles2025/AbdullahAlafari.jpg",
+    "bio": "Abdullah Alafari, ....."
+  },
+  {
+    "name": "Khaled Abdou",
+    "role": "Undersecretary of Committee & Delegate Affairs",
+    "tag": "Student",
+    "field": "Software Engineering",
+    "image": "data/newprofiles2025/KhaledAbdou.jpg",
+    "bio": "Khaled Abdou, currently serving as Undersecretary of Committee and Delegates Affairs, combines a strong foundation in software engineering with a passion for debate and diplomacy. Having earned recognition through numerous Model United Nations conferences, Khaled brings confidence, critical thinking, and persuasive communication to his role. His eagerness to learn new concepts and explore fresh perspectives fuels his creativity in problem-solving and decision-making. Known for his innovative approach and dedication, Khaled’s commitment ensures that every delegate’s experience is engaging, organized, and impactful."
+  },
+  {
+    "name": "Fahad Al-Bassam",
+    "role": "Undersecretary of Committee & Delegate Affairs",
+    "tag": "Student",
+    "field": "PYP-Law",
+    "image": "data/newprofiles2025/FahadAl-BassamProfile.jpg",
+    "bio": "Fahad, an enthusiast within the fields of Diplomacy & History, who’s currently Serving as a USG of Committee & Delegate affairs offers a plethora of experience with regards to conference management having participated in a multitude of them previously. He furthermore brings a new perspective as a recent senior in a rapidly developing community of students within an even faster growing MUN community here in Riyadh. His haste to join shows his eagerness to work alongside his new colleagues within the PSUMUN’25 team to make it a conference that won’t be near forgotten! Picture:"
+  },
+  {
+    "name": "Abdullah AlRayes",
+    "role": "Undersecretary of Logistics",
+    "tag": "Student",
+    "field": "Software Engineer",
+    "image": "data/newprofiles2025/AbdullahAlRayes.jpg",
+    "bio": "Abdullah AlRayes is a 2nd-year Software Engineering student with a real passion for growth, leadership, and making things happen. He currently leads the logistics department, where his eye for detail and organizational skills add great value. His strengths go far beyond academic excellence. He’s an outstanding speaker who has competed and won an international award for Best Delegate at Oxford MUN 2023. What sets Abdullah apart is his drive. He’s hardworking, ambitious, and constantly pushing himself to aim higher. Whether it’s academics, leadership, or personal growth, he doesn’t settle for less than his best."
   }
 ]
