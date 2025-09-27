@@ -1,0 +1,19 @@
+[
+   // Image res 948 × 945
+  {
+    "name": "Lojain Rozi",
+    "role": "Secretary General",
+    "tag": "Student",
+    "field": "Law",
+    "image": "images/lojenrozi2.gif",
+    "bio": "MUN is very special to Lojain; through it, she discovered her passion for law..."
+  },
+  {
+    "name": "Abdullah AlYousef",
+    "role": "Director General",
+    "tag": "Student",
+    "field": "Computer Science",
+    "image": "images/AbdullahAlyousef3.jpg",
+    "bio": "Abdullah is the Director General of PSUMUN and a dedicated computer science student..."
+  }
+]
